@@ -1,4 +1,3 @@
-# JavaScript高级第一天
 
 ## JavaScript基础知识复习
 
